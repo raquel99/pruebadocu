@@ -1,5 +1,10 @@
 package objetos;
 import java.util.Random;
+/**
+ * 
+ * @author Alumno
+ *
+ */
 public class CarreradeCoches {
 	public static void main(String[] args) {
 		

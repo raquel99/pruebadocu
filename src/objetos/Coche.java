@@ -1,4 +1,9 @@
 package objetos;
+/**
+ * 
+ * @author Alumno
+ *
+ */
 
 public class Coche {
 	// Definir los atributos
